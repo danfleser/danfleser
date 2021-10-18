@@ -21,6 +21,7 @@ Front-end:
 • Angular, Tailwind, Bootstrap, Unity
 
 ### 🤝 Is there any way my expertise can make an impact on your business?
+
 Drop me a message and let's have a chat!
 🌍 Only interested in remote work
 
@@ -37,5 +38,5 @@ Drop me a message and let's have a chat!
   <img
     width="24"
     alt="Follow me on YouTube"
-    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/youtube.png"
+    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/yt.png"
   /></a>
