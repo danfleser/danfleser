@@ -30,12 +30,12 @@ Drop me a message and let's have a chat!
   <img
     width="24"
     alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/linkedin.svg"
+    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/linkedin.png"
   /></a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCP8cUZGnvJYjxUZk11Gr3fw" title="Follow me on YouTube">
   <img
     width="24"
     alt="Follow me on YouTube"
-    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/youtube.svg"
+    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/youtube.png"
   /></a>
