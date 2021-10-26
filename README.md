@@ -32,11 +32,21 @@ Drop me a message and let's have a chat!
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/linkedin.png"
-  /></a>
+  />
+</a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCP8cUZGnvJYjxUZk11Gr3fw" title="Follow me on YouTube">
   <img
     width="24"
     alt="Follow me on YouTube"
     src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/yt.png"
-  /></a>
+  />
+</a>
+&nbsp;
+<a href="mailto:danfleser.dev@gmail.com" title="Email me on GMail">
+  <img
+    width="24"
+    alt="Email me on GMail"
+    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/email.png"
+  />
+</a>
