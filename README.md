@@ -36,7 +36,11 @@ Drop me a message and let's have a chat!
 </a>
 &nbsp;
 <a href="https://danfleser.com" title="Follow my posts">
-  🌐
+  <img
+    width="24"
+    alt="Follow my posts"
+    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/yt.png"
+  />
 </a>
 &nbsp;
 <a href="mailto:danfleser.dev@gmail.com" title="Email me on GMail">
