@@ -35,12 +35,8 @@ Drop me a message and let's have a chat!
   />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCP8cUZGnvJYjxUZk11Gr3fw" title="Follow me on YouTube">
-  <img
-    width="24"
-    alt="Follow me on YouTube"
-    src="https://raw.githubusercontent.com/danfleser/danfleser/master/assets/icons/yt.png"
-  />
+<a href="https://danfleser.com" title="Follow my posts">
+  🌐
 </a>
 &nbsp;
 <a href="mailto:danfleser.dev@gmail.com" title="Email me on GMail">
